@@ -21,6 +21,8 @@ This project is an automated web testing framework designed to validate core fun
 ## 📂 Documents
 - Plan: /25111CNC10769001_DatTienViet_AutoTest_Plan.xlsx
 - Test Cases and Test Script: /testcase.xlsx
+  ![Test Cases](./Evidence/TestCase.png)
+  ![Test Script](./Evidence/TestScript.png)
 - Test Report: /DatVietTien_25111CNC10769001_AutoTest_Report.docx
 - Test Data: /Data
 
@@ -43,3 +45,5 @@ This project is an automated web testing framework designed to validate core fun
 
 ---
 
+## 🎥 Demo Video
+- Link: https://drive.google.com/file/d/1ivQldouVP3-AuvZ9OCAwogaiRlry2MRv/view?usp=sharing
