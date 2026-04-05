@@ -1,0 +1,20 @@
+[
+  {
+    "idSRS": "SRS_111",
+    "title": "Hệ thống cửa hàng bán lẻ",
+    "version": "1.0",
+    "pageNumber": "120",
+    "description": "Tài liệu yêu cầu phần mềm quản lý cửa hàng bán lẻ.",
+    "publicYear": "8",
+    "fileSrsDocument": "E:\\test.pdf"
+  },
+  {
+    "idSRS": "SRS_112",
+    "title": "Hệ thống quản lý kho",
+    "version": "1.0",
+    "pageNumber": "90",
+    "description": "SRS mô tả yêu cầu hệ thống kho hàng.",
+    "publicYear": "8",
+    "fileSrsDocument": "E:\\test.pdf"
+  }
+]

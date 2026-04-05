@@ -1,0 +1,20 @@
+[
+    {
+      "Title": "Login and Authentication Test Plan",
+      "SRS": "SRS_PRS_Cuahangbanle - SRS Phần mềm cửa hàng bán lẻ",
+      "Version": "1.0",
+      "Description": "This test plan covers the testing approach for the Login and Authentication module, including positive and negative test scenarios for login, logout, and session timeout.",
+      "Start Date": "10/10/2025",
+      "End Date": "10/12/2025",
+      "UpLoadFile": "E:\\test.pdf"
+    },
+    {
+      "Title": "Product Management Test Plan",
+      "SRS": "SRS_PRS_Cuahangbanle - SRS Phần mềm cửa hàng bán lẻ",
+      "Version": "1.0",
+      "Description": "This test plan defines the scope and strategy for testing product management functionalities such as CRUD operations, product categorization, and data validation.",
+      "Start Date": "10/13/2025",
+      "End Date": "10/15/2025",
+      "UpLoadFile": "E:\\test.pdf"
+    }
+  ]

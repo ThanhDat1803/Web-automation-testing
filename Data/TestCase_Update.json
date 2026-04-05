@@ -1,0 +1,19 @@
+  [
+    {
+     "Test Plan": "Test Plan PRS_SRS_PRS_Cuahangbanle_v1.0",
+      "TC_ID": "TC_111",
+      "Title": "new Update Verify successful login with valid credentials",
+      "Estimation": "5",
+      "Test Type": "Functional Testing",
+      "Area": "Authentication",
+      "Pre-condition": "User account is already registered and active",
+      "Step":"1. Open the login page 2. Enter valid username and password 3. Click the 'Login' button",
+      "Test Data":"Username: tester01; Password: Test@123",
+      "Expected Results":"1. Login page loads successfully 2. Credentials are accepted 3. User is redirected to the dashboard",
+      "Priority": "High",
+      "Result": "PASS",
+      "Author": "Test User",
+      "Note": "Basic login test passed successfully",
+      "Date": "10/17/2025"
+    }
+  ]
