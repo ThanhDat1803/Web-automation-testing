@@ -18,6 +18,23 @@ This project is an automated web testing framework designed to validate core fun
 
 ---
 
+## 📂 Documents
+- Plan: /25111CNC10769001_DatTienViet_AutoTest_Plan.xlsx
+- Test Cases and Test Script: /testcase.xlsx
+- Test Report: /DatVietTien_25111CNC10769001_AutoTest_Report.docx
+- Test Data: /Data
+
+## 📂 Project Structure
+- src: /DatVietTien_25111CNC10769001_AutoTest\project_Autotesting\src
+
+---
+
+## 📊 Summary
+- Designed 65 test cases for functional and UI testing
+- Automated 23 test scripts using Selenium WebDriver and TestNG
+
+---
+
 ## 🛠️ Tech Stack
 - Java
 - Selenium WebDriver
@@ -26,4 +43,3 @@ This project is an automated web testing framework designed to validate core fun
 
 ---
 
-## 📂 Project Structure
